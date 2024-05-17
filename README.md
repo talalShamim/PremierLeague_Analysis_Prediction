@@ -2,7 +2,7 @@
 
 ## Project Structure
 - **PremierLeague_Analysis_Prediction.ipynb**: Jupyter notebook containing all the steps from web scraping to machine learning prediction.
-- **All matches data.csv**: CSV file containing the scraped and processed EPL data.
+- **data scrapped final.csv**: CSV file containing the scraped and processed EPL data.
 
 ## Data Description
 The dataset includes the following features:
